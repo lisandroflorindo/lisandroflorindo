@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner de Lisandro Florindo" width="100%" />
+  <img src="./assets/LogoLisandro.png" alt="Logo de Lisandro Florindo" width="220" />
 </p>
 
 # Hola! soy Lisandro Florindo
