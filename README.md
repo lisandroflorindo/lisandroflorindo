@@ -22,33 +22,74 @@ Me interesa seguir creciendo como desarrollador, mejorar mis prácticas de códi
 
 ---
 
+## Experiencia
+
+### Instituto Superior Sanmartiniano
+
+- Desarrollo del sitio web institucional con enfoque en diseño responsive, estructura clara de contenidos y experiencia de usuario.
+- Actualmente estoy desarrollando el sistema de administración y alumnado
+
+Tareas realizadas:
+
+Maquetación de interfaces web.
+Desarrollo responsive para dispositivos móviles y escritorio.
+Organización de secciones institucionales.
+Optimización visual y funcional del sitio.
+
+---
+
 ## Proyectos destacados
 
+### HABITARTE
+
+Desarrollo de una página web institucional basada en una identidad visual definida, orientada a presentar información de manera clara, moderna y adaptable a distintos dispositivos.
+
+**Tecnologías utilizadas:**
+`HTML` `CSS` `JavaScript` `React` `TailwindCSS`
+
+### SITIO WEB INSTITUCIONAL - INSTITUTO SUPERIOR SANMARTINIANO
+
+Desarrollo de sitio web institucional orientado a presentar la oferta académica, información institucional y canales de contacto del instituto.
+
+El proyecto fue diseñado con enfoque responsive, adaptado a dispositivos móviles y escritorio, buscando una navegación clara, moderna y accesible para los usuarios.
+
+Principales tareas:
+
+Diseño y desarrollo de interfaz web.
+Organización de contenido institucional.
+Adaptación responsive.
+Mejora de experiencia de usuario.
+
+**Tecnologías utilizadas:** 
+`HTML` `CSS` `JavaScript` `React`
+
+### INUSITTÁ
+
+Inusittá es una agencia dedicada al bienestar y la productividad, que acompaña a personas y organizaciones a mejorar su rendimiento sin perder lo más importante: el equilibrio, la salud y la calidad de vida.
+
+La idea fue construir una web que refleje su identidad:
+-Claridad en el mensaje.
+-Estructura pensada para que el visitante entienda rápido qué hacen.
+-Diseño 100% responsive (se adapta a celular, tablet y PC).
+-Navegación simple y enfoque en el contacto.
+
+**Tecnologías utilizadas:** 
+`HTML` `CSS` `JavaScript`
 
 ---
 
-## GitHub Stats
+## Contacto y Redes Sociales
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lisandromauricio33&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisandromauricio33&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## Contacto
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/lisandroflorindo/">
-    <img src="https://img.shields.io/badge/LinkedIn-Lisandro%20Florindo-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.instagram.com/lisandro.florindo/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48" height="48" />
   </a>
-  <a href="mailto:lisandromauricio33@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lisandroflorindo/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" />
   </a>
-  <a href="https://github.com/lisandromauricio33">
-    <img src="https://img.shields.io/badge/GitHub-lisandromauricio33-black?style=for-the-badge&logo=github" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:lisandromauricio33@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48" />
   </a>
 </p>
